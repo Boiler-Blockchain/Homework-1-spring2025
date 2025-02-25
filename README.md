@@ -42,8 +42,8 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**
    ```bash
-   git clone <TODO: change to sem specific repo without solutions>
-   cd <TODO: blah blah>
+   git clone https://github.com/Boiler-Blockchain/Homework-1-spring2025.git
+   cd Homework-1-spring2025
    ```
 
 2. **Install Dependencies**
